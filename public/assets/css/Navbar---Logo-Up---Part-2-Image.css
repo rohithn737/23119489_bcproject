@@ -1,0 +1,12 @@
+@media (min-width: 1200px) {
+  #toplogoimage {
+    width: 400px;
+  }
+}
+
+@media (max-width: 1200px) {
+  #toplogoimage {
+    width: 300px;
+  }
+}
+
